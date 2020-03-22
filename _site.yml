@@ -7,15 +7,15 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user 
-      href: about.html
     - text: "Publications"
       icon: fa-file-alt 
       href: pubs.html
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: "Sense Data Science"
+      icon: fa-user
+      href: sds.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
@@ -25,5 +25,5 @@ navbar:
       href: https://github.com/fsense
 output:
   html_document:
-    theme: cosmo
+    theme: spacelab # yeti
     highlight: textmate

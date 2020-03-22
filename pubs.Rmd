@@ -34,4 +34,26 @@ He, J.A., **Sense, F.**, & Antshel, K.M. (2015). Developing a University-Wide Pr
 
 ### Conference contributions
 
-...
+**Sense, F.**, Jastrzembski, T., Mozer, M.C., Krusmark, M., & van Rijn, H. (2019). Perspectives on Computational Models of Learning and Forgetting. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
+
+Gluck, K.A., Collins, M., Krusmark, M., **Sense, F.**, Maass, S.C., & van Rijn, H. (2019). Predicting Performance in Cardiopulmonary Resuscitation. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
+
+van der Velde, M., **Sense, F.**, Borst, J., & van Rijn, H. (2019). Kickstarting Adaptive Fact Learning Using Hierarchical Bayesian Modelling. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
+
+**Sense, F.**, Jastrzembski, T., Krusmark, M., Martinez, S., & van Rijn, H. (2019). An Integrated Trial-Level Performance Measure: Combining Accuracy and RT to Express Performance During Learning. *Proceedings of the 41st Annual Conference of the Cognitive Science Society*. Montreal, Canada. <i class="far fa-file-pdf"></i> [proceedings](https://cognitivesciencesociety.org/wp-content/uploads/2019/07/cogsci19_proceedings-8July2019-compressed.pdf) (large PDF!)
+
+**Sense, F.**, van der Velde, M., & van Rijn, H. (2018). Deploying a Model-based Adaptive Fact-Learning System in University Courses (abstract). In I. Juvina, J. Houpt, & C. Myers (Eds.), *Proceedings of the 16th International Conference on Cognitive Modeling* (pp. 137-8). Madison, WI: University of Wisconsin. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.github.io/previous.html) 
+
+Maass, S.C., **Sense, F.**, & Van Rijn, H. (2017). Cognitive Modeling of Cardiopulmonary Resuscitation Knowledge and Skill Spanning Months to Years (abstract). In M. K. van Vugt, A. P. Banks, & W.G. Kennedy (Eds.), *Proceedings of the 15th International Conference on Cognitive Modeling* (pp. 228–229). Coventry, UK: University of Warwick. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.github.io/previous.html) 
+
+**Sense, F.**, Meijer, R. R., Van Rijn, H. (2016). On the Link between Fact Learning and General Cognitive Ability. In *Proceedings of the 38th Annual Conference of the Cognitive Science Society*. Philadelphia, PA: Cognitive Science Society. <i class="far fa-file-pdf"></i> [proceedings](https://cognitivesciencesociety.org/wp-content/uploads/2019/03/cogsci2016_proceedings.pdf) (large PDF!)   
+
+**Sense, F.**, Maass, S.C., & Van Rijn, H. (2016). Interactions of declarative and procedural memory in real-life tasks: validating CPR as a new paradigm (abstract). In D. Reitter & F. E. Ritter (Eds.), *Proceedings of the 14th International Conference on Cognitive Modeling* (pp. 252–253). University Park, PA: Penn State. <i class="fas fa-link"></i> [proceedings](http://acs.ist.psu.edu/iccm2016/proceedings/) 
+
+**Sense, F.**, Behrens, F., Meijer, R.R., & Van Rijn, H. (2015). Stability of individual parameters in a model of optimal fact learning. In *Proceedings of the 13th International Conference on Cognitive Modeling* (pp. 136–141). <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)  
+Winner of the Allen Newell Award for best student paper submitted to ICCM 2015.
+
+
+-----
+
+<div style="text-align:center"> <img src="./files/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
