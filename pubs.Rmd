@@ -1,0 +1,37 @@
+---
+title: "Publications"
+---
+
+Shared first authorships are indicated with a ^.
+
+### Submitted or under revision
+
+**Sense^, F.**, van der Velde^, M., & van Rijn, H. (under review). Predicting University Students’ Exam Performance using a Model-based Adaptive Fact-Learning System.  
+
+Zhou, P., **Sense, F.**, Prat, C., van Rijn, H., & Stocco, A. (under revision). Resting-state EEG Signatures of Individual Forgetting Rates during Learning.
+
+-----
+
+### Published
+
+Moghimi, D., Van Yperen, N. W., **Sense, F.**, Zacher, H., & Scheibe, S. (2020). Using the selection, optimization, and compensation model of action-regulation to explain college students’ grades and study satisfaction. *Journal of Educational Psychology*. Advance online publication. DOI: [10.1037/edu0000466](https://doi.org/10.1037/edu0000466)
+
+Maass^, S.C., **Sense^, F.**, Gluck, K., & Van Rijn, H. (2019). Keeping Bystanders Active: Resuscitating Resuscitation Skills. *Frontiers in Public Health: Disaster and Emergency Medicine*, 7:177. DOI: [10.3389/fpubh.2019.00177](10.3389/fpubh.2019.00177). <i class="far fa-file-alt"></i> [OSF](https://osf.io/zpjrt/) 
+
+**Sense^, F.**, Maass^, S.C., Gluck, K.A., & Van Rijn, H. (2019). Within-Subject Performance on a Real-Life, Complex Task and Traditional Lab Experiments: Measures of Word Learning, Raven Matrices, Tapping, and CPR. *Journal of Cognition*, 2(1): 12, pp. 1–10. DOI: [10.5334/joc.65](10.5334/joc.65). <i class="far fa-file-alt"></i> [OSF](https://osf.io/m8bxe/)  
+
+**Sense, F.**, Meijer, R.R., & Van Rijn, H. (2018). Exploration of the Rate of Forgetting as a Domain-Specific Individual Differences Measure. *Frontiers in Education: Educational Psychology*, 3:112. DOI: [10.3389/feduc.2018.00112](10.3389/feduc.2018.00112). <i class="far fa-file-alt"></i> [OSF](https://osf.io/yz7bn/)  
+
+**Sense, F.**, & Van Rijn, H. (2018). Probabilistic Motor Sequence Learning in a Virtual Reality Serial Reaction Time Task. *PLoS ONE* 13(6): e0198759. DOI: [10.1371/journal.pone.0198759](10.1371/journal.pone.0198759). <i class="far fa-file-alt"></i> [OSF](https://osf.io/exnvd/)  
+
+**Sense, F.**, Morey, C.C., Prince, M., Heathcote, A., & Morey, R.D. (2017). Opportunity for verbalization does not improve visual change detection performance: A state-trace analysis. *Behavior Research Methods*, 49(3), 853–862. DOI: [10.3758/s13428-016-0741-1](10.3758/s13428-016-0741-1). <i class="fab fa-github"></i> [Github repo](https://github.com/fsense/opportunity-verbalization-statetrace)
+
+**Sense, F.**, Behrens, F., Meijer, R.R., & van Rijn, H. (2016). An Individual’s Rate of Forgetting Is Stable Over Time but Differs Across Materials. *Topics in Cognitive Science*, 8: 305–321. DOI: [10.1111/tops.12183](10.1111/tops.12183). <i class="far fa-file-alt"></i> [OSF](https://osf.io/yt9qs/)  
+
+He, J.A., **Sense, F.**, & Antshel, K.M. (2015). Developing a University-Wide Primary Prevention Intervention for Prescription Stimulant Misuse and Diversion in College Students. *The ADHD Report*: Vol. 23, No. 1, pp. 1-9. 
+
+-----
+
+### Conference contributions
+
+...
