@@ -2,7 +2,7 @@
 title: "Florian Sense"
 ---
 
-I am a post-doctoral researcher in [Hedderik van Rijn’s lab](http://temporalcognition.nl/) at the [Univeristy of Groningen](https://www.rug.nl/staff/f.sense/) and with the [Air Force Research Laboratory at Wright-Patterson](https://www.wpafb.af.mil/afrl/711HPW/) (as a contractor through [Infinite Tactics]()) working on computerized, adaptive fact-learning.
+I am a post-doctoral researcher in [Hedderik van Rijn’s lab](http://temporalcognition.nl/) at the [Univeristy of Groningen](https://www.rug.nl/staff/f.sense/) and with the [Air Force Research Laboratory at Wright-Patterson](https://www.wpafb.af.mil/afrl/711HPW/) (as a contractor through [Infinite Tactics](https://infinitetactics.com/www/)) working on computerized, adaptive fact-learning.
 
 This website gives an overview of the peer-reviewed academic work I have (co-)authored, my CV, and my company *Sense Data Science*. Please use the menu above to find what you are interested in.
 

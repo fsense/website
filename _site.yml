@@ -17,13 +17,16 @@ navbar:
       icon: fa-user
       href: sds.html
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
-      href: mailto:floriansense@gmail.com
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/fsense
+    - text: "OSF"
+      icon: fa-code-branch
+      href: https://osf.io/pruah/
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:floriansense@gmail.com
 output:
   html_document:
-    theme: spacelab # yeti
+    theme: yeti # spacelab
     highlight: textmate
