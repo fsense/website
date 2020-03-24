@@ -2,12 +2,26 @@
 title: "Florian Sense"
 ---
 
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
 I am a post-doctoral researcher in [Hedderik van Rijn’s lab](http://temporalcognition.nl/) at the [Univeristy of Groningen](https://www.rug.nl/staff/f.sense/) and with the [Air Force Research Laboratory at Wright-Patterson](https://www.wpafb.af.mil/afrl/711HPW/) (as a contractor through [Infinite Tactics](https://infinitetactics.com/www/)) working on computerized, adaptive fact-learning.
 
 This website gives an overview of the peer-reviewed academic work I have (co-)authored, my CV, and my company *Sense Data Science*. Please use the menu above to find what you are interested in.
 
 For any questions you might have, please use the "contact me" button in the top right corner to get in touch.
 
+</div>
+
+<div class="col-sm-6">
+
+<!-- ![](./img/FlorianSense.png) -->
+<div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="250" height="250" /> </div>
+
+</div>
+</div>
+
+
 -----
 
-<div style="text-align:center"> <img src="./files/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
+<!-- <div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div> -->

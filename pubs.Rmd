@@ -14,25 +14,50 @@ Zhou, P., **Sense, F.**, Prat, C., van Rijn, H., & Stocco, A. (under revision). 
 
 ### Published
 
-Moghimi, D., Van Yperen, N. W., **Sense, F.**, Zacher, H., & Scheibe, S. (2020). Using the selection, optimization, and compensation model of action-regulation to explain college students’ grades and study satisfaction. *Journal of Educational Psychology*. Advance online publication. DOI: [10.1037/edu0000466](https://doi.org/10.1037/edu0000466)
+Moghimi, D., Van Yperen, N. W., **Sense, F.**, Zacher, H., & Scheibe, S. (2020).  
+Using the selection, optimization, and compensation model of action-regulation to explain college students’ grades and study satisfaction.  
+*Journal of Educational Psychology*. Advance online publication.  
+<i class="far fa-file-pdf"></i> [pdf](.files/Moghimi_etal_2020_JEP.pdf) | <i class="fas fa-home"></i> [10.1037/edu0000466](https://doi.org/10.1037/edu0000466)
 
-Maass^, S.C., **Sense^, F.**, Gluck, K., & Van Rijn, H. (2019). Keeping Bystanders Active: Resuscitating Resuscitation Skills. *Frontiers in Public Health: Disaster and Emergency Medicine*, 7:177. DOI: [10.3389/fpubh.2019.00177](10.3389/fpubh.2019.00177). <i class="far fa-file-alt"></i> [OSF](https://osf.io/zpjrt/) 
+Maass^, S.C., **Sense^, F.**, Gluck, K., & Van Rijn, H. (2019).  
+Keeping Bystanders Active: Resuscitating Resuscitation Skills.  
+*Frontiers in Public Health: Disaster and Emergency Medicine*, 7:177.  
+<i class="far fa-file-pdf"></i> [pdf](.files/Maass_Sense_Gluck_VanRijn_2019.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/zpjrt/) | <i class="fas fa-home"></i> [10.3389/fpubh.2019.00177](10.3389/fpubh.2019.00177)
 
-**Sense^, F.**, Maass^, S.C., Gluck, K.A., & Van Rijn, H. (2019). Within-Subject Performance on a Real-Life, Complex Task and Traditional Lab Experiments: Measures of Word Learning, Raven Matrices, Tapping, and CPR. *Journal of Cognition*, 2(1): 12, pp. 1–10. DOI: [10.5334/joc.65](10.5334/joc.65). <i class="far fa-file-alt"></i> [OSF](https://osf.io/m8bxe/)  
+**Sense^, F.**, Maass^, S.C., Gluck, K.A., & Van Rijn, H. (2019).  
+Within-Subject Performance on a Real-Life, Complex Task and Traditional Lab Experiments: Measures of Word Learning, Raven Matrices, Tapping, and CPR.  
+*Journal of Cognition*, 2(1): 12, pp. 1–10.  
+<i class="far fa-file-pdf"></i> [pdf](.files/Sense_Maass_Gluck_vanRijn_2019.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/m8bxe/)  | <i class="fas fa-home"></i> [10.5334/joc.65](10.5334/joc.65) 
 
-**Sense, F.**, Meijer, R.R., & Van Rijn, H. (2018). Exploration of the Rate of Forgetting as a Domain-Specific Individual Differences Measure. *Frontiers in Education: Educational Psychology*, 3:112. DOI: [10.3389/feduc.2018.00112](10.3389/feduc.2018.00112). <i class="far fa-file-alt"></i> [OSF](https://osf.io/yz7bn/)  
+**Sense, F.**, Meijer, R.R., & Van Rijn, H. (2018).  
+Exploration of the Rate of Forgetting as a Domain-Specific Individual Differences Measure.  
+*Frontiers in Education: Educational Psychology*, 3:112.  
+<i class="far fa-file-pdf"></i> [pdf](.files/Sense_Meijer_vanRijn_2018.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/yz7bn/)  | <i class="fas fa-home"></i> [10.3389/feduc.2018.00112](10.3389/feduc.2018.00112)  
 
-**Sense, F.**, & Van Rijn, H. (2018). Probabilistic Motor Sequence Learning in a Virtual Reality Serial Reaction Time Task. *PLoS ONE* 13(6): e0198759. DOI: [10.1371/journal.pone.0198759](10.1371/journal.pone.0198759). <i class="far fa-file-alt"></i> [OSF](https://osf.io/exnvd/)  
+**Sense, F.**, & Van Rijn, H. (2018).  
+Probabilistic Motor Sequence Learning in a Virtual Reality Serial Reaction Time Task.  
+*PLoS ONE* 13(6): e0198759.  
+<i class="far fa-file-pdf"></i> [pdf](.files/Sense_vanRijn_2018.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/exnvd/)  | <i class="fas fa-home"></i> [10.1371/journal.pone.0198759](10.1371/journal.pone.0198759) 
 
-**Sense, F.**, Morey, C.C., Prince, M., Heathcote, A., & Morey, R.D. (2017). Opportunity for verbalization does not improve visual change detection performance: A state-trace analysis. *Behavior Research Methods*, 49(3), 853–862. DOI: [10.3758/s13428-016-0741-1](10.3758/s13428-016-0741-1). <i class="fab fa-github"></i> [Github repo](https://github.com/fsense/opportunity-verbalization-statetrace)
+**Sense, F.**, Morey, C.C., Prince, M., Heathcote, A., & Morey, R.D. (2017).  
+Opportunity for verbalization does not improve visual change detection performance: A state-trace analysis.  
+*Behavior Research Methods*, 49(3), 853–862.  
+<i class="far fa-file-pdf"></i> [pdf](.files/Sense_etal_2016_BRM.pdf) | <i class="fab fa-github"></i> [Github repository](https://github.com/fsense/opportunity-verbalization-statetrace) | <i class="fas fa-home"></i> [10.3758/s13428-016-0741-1](10.3758/s13428-016-0741-1) 
 
-**Sense, F.**, Behrens, F., Meijer, R.R., & van Rijn, H. (2016). An Individual’s Rate of Forgetting Is Stable Over Time but Differs Across Materials. *Topics in Cognitive Science*, 8: 305–321. DOI: [10.1111/tops.12183](10.1111/tops.12183). <i class="far fa-file-alt"></i> [OSF](https://osf.io/yt9qs/)  
+**Sense, F.**, Behrens, F., Meijer, R.R., & van Rijn, H. (2016).  
+An Individual’s Rate of Forgetting Is Stable Over Time but Differs Across Materials.  
+*Topics in Cognitive Science*, 8: 305–321.  
+<i class="far fa-file-pdf"></i> [pdf](.files/Sense_Behrens_Meijer_VanRijn_2016.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/yt9qs/) | <i class="fas fa-home"></i> [10.1111/tops.12183](10.1111/tops.12183). 
 
-He, J.A., **Sense, F.**, & Antshel, K.M. (2015). Developing a University-Wide Primary Prevention Intervention for Prescription Stimulant Misuse and Diversion in College Students. *The ADHD Report*: Vol. 23, No. 1, pp. 1-9. 
+He, J.A., **Sense, F.**, & Antshel, K.M. (2015).  
+Developing a University-Wide Primary Prevention Intervention for Prescription Stimulant Misuse and Diversion in College Students.  
+*The ADHD Report*: Vol. 23, No. 1, pp. 1-9.  
+<i class="far fa-file-pdf"></i> [pdf](.files/He_Sense_Antshel_2015.pdf) | <i class="fas fa-home"></i> [10.1521/adhd.2015.23.1.1](https://guilfordjournals.com/doi/pdf/10.1521/adhd.2015.23.1.1)
+
 
 -----
 
-### Conference contributions
+### Peer-reviewed conference contributions
 
 **Sense, F.**, Jastrzembski, T., Mozer, M.C., Krusmark, M., & van Rijn, H. (2019). Perspectives on Computational Models of Learning and Forgetting. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
 
@@ -56,4 +81,4 @@ Winner of the Allen Newell Award for best student paper submitted to ICCM 2015.
 
 -----
 
-<div style="text-align:center"> <img src="./files/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
+<div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div>

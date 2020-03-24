@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-<div style="text-align:center"> <img src="./files/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
+<div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
 
 ------
 
@@ -24,7 +24,27 @@ Florian Sense, born January 24th, 1988 in Bremen, Germany currently living in Gr
 
 -----
 
-After defending my PhD thesis in April 2017, [I took the rest of the year off to hike from Canada to Mexico on the Pacific Crest Trail](https://flowalks.wordpress.com/) and do other fun things before returning to the University of Groningen as a postdoctoral researcher.
+<!-- See here for how to handle rows and columns: -->
+<!-- https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp -->
+
+<div class="row"">
+<div class="col-sm-3">
+
+<div style="text-align:center"> <img src="./img/PCT_small.png" alt="PCT logo" width="150" height="150" /> </div>
+
+</div>
+
+
+<div class="col-sm-9">
+
+<p>After defending my PhD thesis in April 2017, I took the rest of the year off to hike from Canada to Mexico on the Pacific Crest Trail and do other fun things before returning to the University of Groningen as a postdoctoral researcher.</p>
+
+<p><a href="https://flowalks.wordpress.com/">I wrote a blog during the hike that you can find at a separate web address</a>. You can find more information about the PCT more generally on <a href="https://www.pcta.org/">the website of the Pacific Crest Trail Association</a>. </p>
+
+<p>If you have a lot of time and really like walking and eating ungodly amounts of food, I can highly recommend it. </p>
+
+</div>
+</div>
 
 -----
 
@@ -182,4 +202,4 @@ March 9th – 12th, 2011 in Delmenhorst, Germany
 
 -----
 
-<div style="text-align:center"> <img src="./files/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
+<div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div>

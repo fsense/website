@@ -8,4 +8,4 @@ My academic background is in cognitive psychology, computational neuroscience, a
 
 -----
 
-<div style="text-align:center"> <img src="./files/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
+<div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
