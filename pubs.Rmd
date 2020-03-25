@@ -22,32 +22,32 @@ Using the selection, optimization, and compensation model of action-regulation t
 Maass^, S.C., **Sense^, F.**, Gluck, K., & Van Rijn, H. (2019).  
 Keeping Bystanders Active: Resuscitating Resuscitation Skills.  
 *Frontiers in Public Health: Disaster and Emergency Medicine*, 7:177.  
-<i class="far fa-file-pdf"></i> [pdf](files/Maass_Sense_Gluck_VanRijn_2019.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/zpjrt/) | <i class="fas fa-home"></i> [10.3389/fpubh.2019.00177](10.3389/fpubh.2019.00177)
+<i class="far fa-file-pdf"></i> [pdf](files/Maass_Sense_Gluck_VanRijn_2019.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/zpjrt/) | <i class="fas fa-home"></i> [10.3389/fpubh.2019.00177](https://www.frontiersin.org/articles/10.3389/fpubh.2019.00177/full)
 
 **Sense^, F.**, Maass^, S.C., Gluck, K.A., & Van Rijn, H. (2019).  
 Within-Subject Performance on a Real-Life, Complex Task and Traditional Lab Experiments: Measures of Word Learning, Raven Matrices, Tapping, and CPR.  
 *Journal of Cognition*, 2(1): 12, pp. 1–10.  
-<i class="far fa-file-pdf"></i> [pdf](files/Sense_Maass_Gluck_vanRijn_2019.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/m8bxe/)  | <i class="fas fa-home"></i> [10.5334/joc.65](10.5334/joc.65) 
+<i class="far fa-file-pdf"></i> [pdf](files/Sense_Maass_Gluck_vanRijn_2019.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/m8bxe/)  | <i class="fas fa-home"></i> [10.5334/joc.65](https://www.journalofcognition.org/articles/10.5334/joc.65/) 
 
 **Sense, F.**, Meijer, R.R., & Van Rijn, H. (2018).  
 Exploration of the Rate of Forgetting as a Domain-Specific Individual Differences Measure.  
 *Frontiers in Education: Educational Psychology*, 3:112.  
-<i class="far fa-file-pdf"></i> [pdf](files/Sense_Meijer_vanRijn_2018.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/yz7bn/)  | <i class="fas fa-home"></i> [10.3389/feduc.2018.00112](10.3389/feduc.2018.00112)  
+<i class="far fa-file-pdf"></i> [pdf](files/Sense_Meijer_vanRijn_2018.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/yz7bn/)  | <i class="fas fa-home"></i> [10.3389/feduc.2018.00112](https://www.frontiersin.org/articles/10.3389/feduc.2018.00112/full)  
 
 **Sense, F.**, & Van Rijn, H. (2018).  
 Probabilistic Motor Sequence Learning in a Virtual Reality Serial Reaction Time Task.  
 *PLoS ONE* 13(6): e0198759.  
-<i class="far fa-file-pdf"></i> [pdf](files/Sense_vanRijn_2018.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/exnvd/)  | <i class="fas fa-home"></i> [10.1371/journal.pone.0198759](10.1371/journal.pone.0198759) 
+<i class="far fa-file-pdf"></i> [pdf](files/Sense_vanRijn_2018.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/exnvd/)  | <i class="fas fa-home"></i> [10.1371/journal.pone.0198759](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198759) 
 
 **Sense, F.**, Morey, C.C., Prince, M., Heathcote, A., & Morey, R.D. (2017).  
 Opportunity for verbalization does not improve visual change detection performance: A state-trace analysis.  
 *Behavior Research Methods*, 49(3), 853–862.  
-<i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2016_BRM.pdf) | <i class="fab fa-github"></i> [Github repository](https://github.com/fsense/opportunity-verbalization-statetrace) | <i class="fas fa-home"></i> [10.3758/s13428-016-0741-1](10.3758/s13428-016-0741-1) 
+<i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2016_BRM.pdf) | <i class="fab fa-github"></i> [Github repository](https://github.com/fsense/opportunity-verbalization-statetrace) | <i class="fas fa-home"></i> [10.3758/s13428-016-0741-1](https://link.springer.com/article/10.3758%2Fs13428-016-0741-1) 
 
 **Sense, F.**, Behrens, F., Meijer, R.R., & van Rijn, H. (2016).  
 An Individual’s Rate of Forgetting Is Stable Over Time but Differs Across Materials.  
 *Topics in Cognitive Science*, 8: 305–321.  
-<i class="far fa-file-pdf"></i> [pdf](files/Sense_Behrens_Meijer_VanRijn_2016.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/yt9qs/) | <i class="fas fa-home"></i> [10.1111/tops.12183](10.1111/tops.12183). 
+<i class="far fa-file-pdf"></i> [pdf](files/Sense_Behrens_Meijer_VanRijn_2016.pdf) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/yt9qs/) | <i class="fas fa-home"></i> [10.1111/tops.12183](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12183). 
 
 He, J.A., **Sense, F.**, & Antshel, K.M. (2015).  
 Developing a University-Wide Primary Prevention Intervention for Prescription Stimulant Misuse and Diversion in College Students.  

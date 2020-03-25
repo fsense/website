@@ -4,7 +4,7 @@ title: "Sense Data Science"
 
 My academic background is in cognitive psychology, computational neuroscience, and cognitive science more generally. Much of my academic work has focused on computational approaches to human learning and forgetting, adaptive e-learning systems, and mathematical modeling of behavioral data and is detailed on this website.
 
-*Sense Data Science* is the company through which I offer a range of data science services as a freelance cognitive data scientist.
+*Sense Data Science* is the company through which I offer a range of data science services as a freelance cognitive data scientist. *Sense Data Science* is registered at the Dutch chamber of commerce under [KVK](https://www.kvk.nl/) number: 75243466 with tax identification number (btw-identificatienummer): NL002458897B65.
 
 -----
 
