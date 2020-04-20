@@ -4,11 +4,12 @@ title: "Publications"
 
 Shared first authorships are indicated with a ^.
 
-### Submitted or under revision
+### Submitted
 
 **Sense^, F.**, van der Velde^, M., & van Rijn, H. (under review). Predicting University Students’ Exam Performance using a Model-based Adaptive Fact-Learning System.  
 
-Zhou, P., **Sense, F.**, Prat, C., van Rijn, H., & Stocco, A. (under revision). Resting-state EEG Signatures of Individual Forgetting Rates during Learning.
+Stocco, A., Zhou, P., **Sense, F.**, & van Rijn, H. (submitted). Reflections of Idiographic Long-Term Memory Characteristics In Resting-State Neuroimaging Data.  
+<i class="far fa-file-pdf"></i>[preprint]() | <i class="fab fa-github"></i> [Github repository](https://github.com/UWCCDL/EEG_RateOfForgetting) 
 
 -----
 
