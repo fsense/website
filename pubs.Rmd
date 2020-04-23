@@ -8,7 +8,7 @@ Shared first authorships are indicated with a ^.
 
 **Sense^, F.**, van der Velde^, M., & van Rijn, H. (under review). Predicting University Students’ Exam Performance using a Model-based Adaptive Fact-Learning System.  
 
-Stocco, A., Zhou, P., **Sense, F.**, & van Rijn, H. (submitted). Reflections of Idiographic Long-Term Memory Characteristics In Resting-State Neuroimaging Data.  
+Zhou, P., **Sense, F.**, van Rijn, H., & Stocco, A. (submitted). Reflections of Idiographic Long-Term Memory Characteristics In Resting-State Neuroimaging Data.  
 <i class="far fa-file-pdf"></i> [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2020.04.18.047662v1) | <i class="fab fa-github"></i> [Github repository](https://github.com/UWCCDL/EEG_RateOfForgetting) 
 
 -----
