@@ -6,9 +6,16 @@ Shared first authorships are indicated with a ^.
 
 ### Submitted
 
-**Sense^, F.**, van der Velde^, M., & van Rijn, H. (under review). Predicting University Students’ Exam Performance using a Model-based Adaptive Fact-Learning System.  
+van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H. (submitted).  
+Alleviating the Cold Start Problem in Adaptive Learning using Data-Driven Difficulty Estimates.  
+<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/hf2vw) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/snfyz/)
 
-Zhou, P., **Sense, F.**, van Rijn, H., & Stocco, A. (submitted). Reflections of Idiographic Long-Term Memory Characteristics In Resting-State Neuroimaging Data.  
+**Sense^, F.**, van der Velde^, M., & van Rijn, H. (under review). 
+Predicting University Students’ Exam Performance using a Model-based Adaptive Fact-Learning System.  
+<i class="far fa-file-alt"></i> [OSF](https://osf.io/e28nw/)
+
+Zhou, P., **Sense, F.**, van Rijn, H., & Stocco, A. (submitted). 
+Reflections of Idiographic Long-Term Memory Characteristics In Resting-State Neuroimaging Data.  
 <i class="far fa-file-pdf"></i> [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2020.04.18.047662v1) | <i class="fab fa-github"></i> [Github repository](https://github.com/UWCCDL/EEG_RateOfForgetting) 
 
 -----
