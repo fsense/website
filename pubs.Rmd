@@ -67,6 +67,8 @@ Developing a University-Wide Primary Prevention Intervention for Prescription St
 
 ### Peer-reviewed conference contributions
 
+**Sense, F.**, Collins, M., Krusmark, M., & Jastrzembski, T. (2020). Using K-means Clustering for Out-of-Sample Predictions of Memory Retention. *Proceedings of the 42nd Annual Conference of the Cognitive Science Society*. Virtual conference. <i class="far fa-file-pdf"></i> [pdf](files/Sense_Collins_Krusmark_Jastrzembski_2020_cogsci.pdf)  
+
 **Sense, F.**, Jastrzembski, T., Mozer, M.C., Krusmark, M., & van Rijn, H. (2019). Perspectives on Computational Models of Learning and Forgetting. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
 
 Gluck, K.A., Collins, M., Krusmark, M., **Sense, F.**, Maass, S.C., & van Rijn, H. (2019). Predicting Performance in Cardiopulmonary Resuscitation. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
