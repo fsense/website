@@ -4,19 +4,27 @@ title: "Publications"
 
 Shared first authorships are indicated with a ^.
 
-### Submitted
+### Accepted / preprints
 
-van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H. (submitted).  
+van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H. (accepted).  
 Alleviating the Cold Start Problem in Adaptive Learning using Data-Driven Difficulty Estimates.  
+*Computational Brain & Behavior*  
 <i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/hf2vw) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/snfyz/)
 
-**Sense^, F.**, van der Velde^, M., & van Rijn, H. (under review).  
+**Sense^, F.**, van der Velde^, M., & van Rijn, H. (accepted).  
 Predicting University Students’ Exam Performance using a Model-based Adaptive Fact-Learning System.  
+*Journal of Learning Analytics*  
 <i class="far fa-file-alt"></i> [OSF](https://osf.io/e28nw/)
 
-Zhou, P., **Sense, F.**, van Rijn, H., & Stocco, A. (submitted).  
+Zhou, P., **Sense, F.**, van Rijn, H., & Stocco, A. (accepted).  
 Reflections of Idiographic Long-Term Memory Characteristics In Resting-State Neuroimaging Data.  
+*Cognition*  
 <i class="far fa-file-pdf"></i> [bioRxiv preprint](https://biorxiv.org/cgi/content/short/2020.04.18.047662v1) | <i class="fab fa-github"></i> [Github repository](https://github.com/UWCCDL/EEG_RateOfForgetting) 
+
+van der Velde, M., **Sense, F.**, Spijkers, R., Meeter, M., & van Rijn, H. (preprint)  
+Lockdown Learning: Changes in Online Study Activity and Performance of Dutch Secondary School Students during the COVID-19 Pandemic  
+*submitted to EDM2021*  
+<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/fr2v8)
 
 -----
 
@@ -69,7 +77,7 @@ Developing a University-Wide Primary Prevention Intervention for Prescription St
 
 **Sense, F.**, Collins, M., Krusmark, M., & Jastrzembski, T. (2020). Using K-means Clustering for Out-of-Sample Predictions of Memory Retention. *Proceedings of the 42nd Annual Conference of the Cognitive Science Society*. Virtual conference. <i class="far fa-file-pdf"></i> [pdf](files/Sense_Collins_Krusmark_Jastrzembski_2020_cogsci.pdf)  
 
-**Sense, F.**, Jastrzembski, T., Mozer, M.C., Krusmark, M., & van Rijn, H. (2019). Perspectives on Computational Models of Learning and Forgetting. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
+**Sense, F.**, Jastrzembski, T., Mozer, M.C., Krusmark, M., & van Rijn, H. (2019). Perspectives on Computational Models of Learning and Forgetting. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html) | <i class="far fa-file-pdf"></i> [pdf](https://iccm-conference.neocities.org/2019/proceedings/papers/ICCM2019_paper_13.pdf)
 
 Gluck, K.A., Collins, M., Krusmark, M., **Sense, F.**, Maass, S.C., & van Rijn, H. (2019). Predicting Performance in Cardiopulmonary Resuscitation. *Proceedings of the 17th International Conference on Cognitive Modeling*. Montreal, Canada. <i class="fas fa-link"></i> [proceedings](https://iccm-conference.neocities.org/2019/proceedings/index.html)
 
