@@ -6,11 +6,6 @@ Shared first authorships are indicated with a ^.
 
 ### Accepted / preprints
 
-van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H. (accepted).  
-Alleviating the Cold Start Problem in Adaptive Learning using Data-Driven Difficulty Estimates.  
-*Computational Brain & Behavior*  
-<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/hf2vw) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/snfyz/)
-
 **Sense^, F.**, van der Velde^, M., & van Rijn, H. (accepted).  
 Predicting University Students’ Exam Performance using a Model-based Adaptive Fact-Learning System.  
 *Journal of Learning Analytics*  
@@ -30,9 +25,14 @@ Lockdown Learning: Changes in Online Study Activity and Performance of Dutch Sec
 
 ### Published
 
+van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H. (2021).  
+Alleviating the Cold Start Problem in Adaptive Learning using Data-Driven Difficulty Estimates.  
+*Computational Brain & Behavior*  
+<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/hf2vw) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/snfyz/) | <i class="fas fa-home"></i> [10.1007/s42113-021-00101-6](ttps://doi.org/10.1007/s42113-021-00101-6) (open access)  
+
 Moghimi, D., Van Yperen, N. W., **Sense, F.**, Zacher, H., & Scheibe, S. (2020).  
 Using the selection, optimization, and compensation model of action-regulation to explain college students’ grades and study satisfaction.  
-*Journal of Educational Psychology*. Advance online publication.  
+*Journal of Educational Psychology*, 113(1), 181–196.  
 <i class="far fa-file-pdf"></i> [pdf](files/Moghimi_etal_2020_JEP.pdf) | <i class="fas fa-home"></i> [10.1037/edu0000466](https://doi.org/10.1037/edu0000466)
 
 Maass^, S.C., **Sense^, F.**, Gluck, K., & Van Rijn, H. (2019).  
