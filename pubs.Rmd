@@ -28,7 +28,7 @@ Lockdown Learning: Changes in Online Study Activity and Performance of Dutch Sec
 van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H. (2021).  
 Alleviating the Cold Start Problem in Adaptive Learning using Data-Driven Difficulty Estimates.  
 *Computational Brain & Behavior*  
-<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/hf2vw) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/snfyz/) | <i class="fas fa-home"></i> [10.1007/s42113-021-00101-6](ttps://doi.org/10.1007/s42113-021-00101-6) (open access)  
+<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/hf2vw) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/snfyz/) | <i class="fas fa-home"></i> [10.1007/s42113-021-00101-6](https://doi.org/10.1007/s42113-021-00101-6) (open access)  
 
 Moghimi, D., Van Yperen, N. W., **Sense, F.**, Zacher, H., & Scheibe, S. (2020).  
 Using the selection, optimization, and compensation model of action-regulation to explain college students’ grades and study satisfaction.  
