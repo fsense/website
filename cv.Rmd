@@ -2,9 +2,9 @@
 title: "Curriculum Vitae"
 ---
 
-<div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div>
+<!-- <div style="text-align:center"> <img src="./img/FlorianSense.png" alt="my face" width="110" height="110" /> </div> -->
 
-------
+<!-- ------ -->
 
 Florian Sense, born January 24th, 1988 in Bremen, Germany currently living in Groningen, The Netherlands.
 
