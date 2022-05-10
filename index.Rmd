@@ -5,7 +5,7 @@ title: "Florian Sense"
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-I am a post-doctoral researcher in [Hedderik van Rijn’s lab](http://temporalcognition.nl/) at the [Univeristy of Groningen](https://www.rug.nl/staff/f.sense/) and with the [Air Force Research Laboratory at Wright-Patterson](https://www.wpafb.af.mil/afrl/711HPW/) (as a contractor through [Infinite Tactics](https://infinitetactics.com/www/)) working on computerized, adaptive fact-learning.
+I am a contractor through [Infinite Tactics](https://infinitetactics.com/www/) working on computerized, adaptive learning with Tiffany Myer's team at the [Air Force Research Laboratory at Wright-Patterson](https://www.wpafb.af.mil/afrl/711HPW/). Together with [Hedderik van Rijn](https://van-rijn.org/), I co-supervise two PhD students at the University of Groningen: [Maarten van der Velde](https://www.maartenvandervelde.com/) and [Thomas Wilschut](https://www.thomaswilschut.com/).
 
 This website gives an overview of the peer-reviewed academic work I have (co-)authored, my CV, and my company *Sense Data Science*. Please use the menu above to find what you are interested in.
 

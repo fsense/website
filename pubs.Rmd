@@ -6,10 +6,6 @@ Shared first authorships are indicated with a ^.
 
 ### Preprints
 
-Wilschut, T., **Sense, F.**, van der Velde, M., Fountas, Z., Maass, S., & van Rijn, H.  
-Benefits of Adaptive Learning Transfer from Typing-Based Learning to Speech-Based Learning.  
-<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/wvghu) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/cm72k/)  
-
 Xu, Y., Prat, C., **Sense, F.**,  van Rijn, H., & Stocco, A.  
 Distributed Patterns of Functional Connectivity Underlie Individual Differences in Long-Term Memory Forgetting  
 <i class="far fa-file-pdf"></i> [bioRxiv preprint](https://doi.org/10.1101/2021.08.04.455133)  
@@ -18,7 +14,17 @@ Distributed Patterns of Functional Connectivity Underlie Individual Differences 
 
 ### Published
 
-**Sense, F.**, Wood, R., Collins, M.G., Fiechter, J., Wood, A., Krusmark, M.A., Jastrzembski, T., Myers, C.W. (2021).  
+van der Velde, M., **Sense, F.**, Borst, J. P., van Maanen, L., & van Rijn, H. (2022).  
+Capturing Dynamic Performance in a Cognitive Model: Estimating ACT-R Memory Parameters With the Linear Ballistic Accumulator.  
+*Topics in Cognitive Science.*  
+<i class="fas fa-home"></i> [10.1111/tops.12614]( https://doi.org/10.1111/tops.12614) (open access)   
+
+Wilschut, T., **Sense, F.**, van der Velde, M., Fountas, Z., Maaß, S. C., & van Rijn, H. (2021).  
+Benefits of Adaptive Learning Transfer From Typing-Based Learning to Speech-Based Learning.   
+*Frontiers in Artificial Intelligence*. 4.
+<i class="fas fa-home"></i> [10.3389/frai.2021.780131](https://doi.org/10.3389/frai.2021.780131) (open access) | <i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/wvghu) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/cm72k/)  
+
+**Sense, F.**, Wood, R., Collins, M.G., Fiechter, J., Wood, A., Krusmark, M.A., Jastrzembski, T., & Myers, C.W. (2021).  
 Cognition-Enhanced Machine Learning for Better Predictions with Limited Data.  
 *Topics in Cognitive Science.*  
 <i class="fas fa-home"></i> [10.1111/tops.12574](http://doi.org/10.1111/tops.12574) (open access)
