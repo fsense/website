@@ -14,6 +14,10 @@ Distributed Patterns of Functional Connectivity Underlie Individual Differences 
 
 ### Published
 
+Sasin, E., **Sense, F.**, Nieuwenstein, M., & Fougnie, D. (accepted).  
+Training Modulates Memory-driven Capture.  
+*Attention, Perception, & Psychophysics.*   
+
 van der Velde, M., **Sense, F.**, Borst, J. P., van Maanen, L., & van Rijn, H. (2022).  
 Capturing Dynamic Performance in a Cognitive Model: Estimating ACT-R Memory Parameters With the Linear Ballistic Accumulator.  
 *Topics in Cognitive Science.*  
@@ -21,7 +25,7 @@ Capturing Dynamic Performance in a Cognitive Model: Estimating ACT-R Memory Para
 
 Wilschut, T., **Sense, F.**, van der Velde, M., Fountas, Z., Maaß, S. C., & van Rijn, H. (2021).  
 Benefits of Adaptive Learning Transfer From Typing-Based Learning to Speech-Based Learning.   
-*Frontiers in Artificial Intelligence*. 4.
+*Frontiers in Artificial Intelligence*. 4.  
 <i class="fas fa-home"></i> [10.3389/frai.2021.780131](https://doi.org/10.3389/frai.2021.780131) (open access) | <i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://doi.org/10.31234/osf.io/wvghu) | <i class="far fa-file-alt"></i> [OSF](https://osf.io/cm72k/)  
 
 **Sense, F.**, Wood, R., Collins, M.G., Fiechter, J., Wood, A., Krusmark, M.A., Jastrzembski, T., & Myers, C.W. (2021).  
@@ -93,6 +97,8 @@ Developing a University-Wide Primary Prevention Intervention for Prescription St
 -----
 
 ### Peer-reviewed conference contributions
+
+**Sense, F.**, Sanderson, L., Onia, J., Krusmark, M.A., Fiechter, J., Collins, M.G., Jastrzembski, T. (accepted). Fuzzy Performance Profiles: Towards Personalized CPR Refresher Training. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. Toronto, Canada. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2022_CogSci.pdf)  
 
 **Sense, F.**, Krusmark, M.A., Fiechter, J., Collins, M.G., Sanderson, L., Onia, J., Jastrzembski, T. (2021). Combining Cognitive and Machine Learning Models to Mine CPR Training Histories for Personalized Predictions. *[Proceedings](https://educationaldatamining.org/edm2021/proceedings/#full) of Educational Data Mining 2021*. Virtual Conference. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2021_EDM.pdf)  
 
