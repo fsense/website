@@ -6,6 +6,10 @@ Shared first authorships are indicated with a ^.
 
 ### Preprints
 
+**Sense^, F.**, & van Rijn^, H.  
+Optimizing Fact-Learning with a Response-Latency-Based Adaptive System.   
+<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://psyarxiv.com/chpgv/)   
+
 Xu, Y., Prat, C., **Sense, F.**,  van Rijn, H., & Stocco, A.  
 Distributed Patterns of Functional Connectivity Underlie Individual Differences in Long-Term Memory Forgetting  
 <i class="far fa-file-pdf"></i> [bioRxiv preprint](https://doi.org/10.1101/2021.08.04.455133)  
