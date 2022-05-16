@@ -6,7 +6,7 @@ Shared first authorships are indicated with a ^.
 
 ### Preprints
 
-Wilschut, T., **Sense^, F.**, & van Rijn^, H.  
+Wilschut, T., **Sense, F.**, & van Rijn, H.  
 Personalized Vocabulary Learning using Automatic Speech Recognition.   
 <i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://psyarxiv.com/e5j6x/)   
 
