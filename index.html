@@ -13,6 +13,7 @@
 
 <title>Florian Sense</title>
 
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -61,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +238,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -309,9 +314,20 @@ $(document).ready(function () {
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
-<p>I am a contractor through <a href="https://infinitetactics.com/www/">Infinite Tactics</a> working on computerized, adaptive learning with Tiffany Myer’s team at the <a href="https://www.wpafb.af.mil/afrl/711HPW/">Air Force Research Laboratory at Wright-Patterson</a>. Together with <a href="https://van-rijn.org/">Hedderik van Rijn</a>, I co-supervise two PhD students at the University of Groningen: <a href="https://www.maartenvandervelde.com/">Maarten van der Velde</a> and <a href="https://www.thomaswilschut.com/">Thomas Wilschut</a>.</p>
-<p>This website gives an overview of the peer-reviewed academic work I have (co-)authored, my CV, and my company <em>Sense Data Science</em>. Please use the menu above to find what you are interested in.</p>
-<p>For any questions you might have, please use the “contact me” button in the top right corner to get in touch.</p>
+<p>I am a contractor through <a
+href="https://infinitetactics.com/www/">Infinite Tactics</a> working on
+computerized, adaptive learning with Tiffany Myer’s team at the <a
+href="https://www.wpafb.af.mil/afrl/711HPW/">Air Force Research
+Laboratory at Wright-Patterson</a>. Together with <a
+href="https://van-rijn.org/">Hedderik van Rijn</a>, I co-supervise two
+PhD students at the University of Groningen: <a
+href="https://www.maartenvandervelde.com/">Maarten van der Velde</a> and
+<a href="https://www.thomaswilschut.com/">Thomas Wilschut</a>.</p>
+<p>This website gives an overview of the peer-reviewed academic work I
+have (co-)authored, my CV, and my company <em>Sense Data Science</em>.
+Please use the menu above to find what you are interested in.</p>
+<p>For any questions you might have, please use the “contact me” button
+in the top right corner to get in touch.</p>
 </div>
 <div class="col-sm-6">
 <!-- ![](./img/FlorianSense.png) -->

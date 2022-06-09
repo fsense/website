@@ -6,6 +6,10 @@ Shared first authorships are indicated with a ^.
 
 ### Preprints
 
+van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H.  
+Explaining Forgetting at Different Timescales Requires a Time-variant Forgetting Function.    
+<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://psyarxiv.com/d58n4)   
+
 Wilschut, T., **Sense, F.**, & van Rijn, H.  
 Personalized Vocabulary Learning using Automatic Speech Recognition.   
 <i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://psyarxiv.com/e5j6x/)   

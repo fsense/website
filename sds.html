@@ -13,6 +13,7 @@
 
 <title>Sense Data Science</title>
 
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -61,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +238,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -307,8 +312,17 @@ $(document).ready(function () {
 </div>
 
 
-<p>My academic background is in cognitive psychology, computational neuroscience, and cognitive science more generally. Much of my academic work has focused on computational approaches to human learning and forgetting, adaptive e-learning systems, and mathematical modeling of behavioral data and is detailed on this website.</p>
-<p><em>Sense Data Science</em> is the company through which I offer a range of data science services as a freelance cognitive data scientist. <em>Sense Data Science</em> is registered at the Dutch chamber of commerce under <a href="https://www.kvk.nl/">KVK</a> number 75243466 with tax identification number (btw-identificatienummer): NL002458897B65.</p>
+<p>My academic background is in cognitive psychology, computational
+neuroscience, and cognitive science more generally. Much of my academic
+work has focused on computational approaches to human learning and
+forgetting, adaptive e-learning systems, and mathematical modeling of
+behavioral data and is detailed on this website.</p>
+<p><em>Sense Data Science</em> is the company through which I offer a
+range of data science services as a freelance cognitive data scientist.
+<em>Sense Data Science</em> is registered at the Dutch chamber of
+commerce under <a href="https://www.kvk.nl/">KVK</a> number 75243466
+with tax identification number (btw-identificatienummer):
+NL002458897B65.</p>
 <hr />
 <div style="text-align:center">
 <img src="img/FlorianSense.png" alt="my face" width="110" height="110" />

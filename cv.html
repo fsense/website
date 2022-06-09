@@ -13,6 +13,7 @@
 
 <title>Curriculum Vitae</title>
 
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -61,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -233,7 +238,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -309,15 +314,27 @@ $(document).ready(function () {
 
 <!-- <div style="text-align:center"> <img src="img/FlorianSense.png" alt="my face" width="110" height="110" /> </div> -->
 <!-- ------ -->
-<p>Florian Sense, born January 24th, 1988 in Bremen, Germany currently living in Groningen, The Netherlands.</p>
+<p>Florian Sense, born January 24th, 1988 in Bremen, Germany currently
+living in Groningen, The Netherlands.</p>
 <hr />
 <div id="formal-education" class="section level2">
 <h2>Formal Education</h2>
-<p><strong>2007 – 2010</strong>: Bachelor of Psychology at the University of Groningen (Minor: Cognitive Science)</p>
-<p><strong>2010 – 2012</strong>: BCN Research Master at the University of Groningen (C-track: Cognitive neuroscience and cognitive modeling; the research for my MSc thesis was conducted in Brad Wyble’s lab at Syracuse University; graduated cum laude.)</p>
-<p><strong>2012 – 2016</strong>: PhD candidate at the University of Groningen (department of Psychometrics and Statistics and Department of Experimental Psychology). Supervised by Hedderik van Rijn and Rob R. Meijer. I defended my thesis <a href="https://osf.io/duzya/">Making the Most of Human Memory</a> on April 20th, 2017.</p>
-<p><strong>Nov 2016 – now</strong>: Postdoctoral researcher at the University of Groningen (department of Psychometrics and Statistics and Department of Experimental Psychology).</p>
-<p><strong>Sep 2019 – now</strong>: Freelance data scientist at <a href="https://infinitetactics.com/www/">Infinite Tactics, LLC</a>.</p>
+<p><strong>2007 – 2010</strong>: Bachelor of Psychology at the
+University of Groningen (Minor: Cognitive Science)</p>
+<p><strong>2010 – 2012</strong>: BCN Research Master at the University
+of Groningen (C-track: Cognitive neuroscience and cognitive modeling;
+the research for my MSc thesis was conducted in Brad Wyble’s lab at
+Syracuse University; graduated cum laude.)</p>
+<p><strong>2012 – 2016</strong>: PhD candidate at the University of
+Groningen (department of Psychometrics and Statistics and Department of
+Experimental Psychology). Supervised by Hedderik van Rijn and Rob R.
+Meijer. I defended my thesis <a href="https://osf.io/duzya/">Making the
+Most of Human Memory</a> on April 20th, 2017.</p>
+<p><strong>Nov 2016 – now</strong>: Postdoctoral researcher at the
+University of Groningen (department of Psychometrics and Statistics and
+Department of Experimental Psychology).</p>
+<p><strong>Sep 2019 – now</strong>: Freelance data scientist at <a
+href="https://infinitetactics.com/www/">Infinite Tactics, LLC</a>.</p>
 <!-- **Sep 2019 – now**: Cognitive/Data scientist contracted through Infinite Tactics, LLC, 3351 Dayton-Xenia Road, Beavercreek OH 45432. Infinite Tactics, LLC is subcontracted through L3-Harris Communications. -->
 <hr />
 <!-- See here for how to handle rows and columns: -->
