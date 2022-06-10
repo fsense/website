@@ -29,11 +29,12 @@ Distributed Patterns of Functional Connectivity Underlie Individual Differences 
 Sasin, E., **Sense, F.**, Nieuwenstein, M., & Fougnie, D. (accepted).  
 Training Modulates Memory-driven Capture.  
 *Attention, Perception, & Psychophysics.*   
+<i class="fas fa-home"></i> [10.3758/s13414-022-02508-0](https://trebuchet.public.springernature.app/get_content/bed777ac-9c1c-469d-8fbd-72d35da2c9ad) (open access)   
 
 van der Velde, M., **Sense, F.**, Borst, J. P., van Maanen, L., & van Rijn, H. (2022).  
 Capturing Dynamic Performance in a Cognitive Model: Estimating ACT-R Memory Parameters With the Linear Ballistic Accumulator.  
 *Topics in Cognitive Science.*  
-<i class="fas fa-home"></i> [10.1111/tops.12614]( https://doi.org/10.1111/tops.12614) (open access)   
+<i class="fas fa-home"></i> [10.1111/tops.12614](https://doi.org/10.1111/tops.12614) (open access)   
 
 Wilschut, T., **Sense, F.**, van der Velde, M., Fountas, Z., Maaß, S. C., & van Rijn, H. (2021).  
 Benefits of Adaptive Learning Transfer From Typing-Based Learning to Speech-Based Learning.   
