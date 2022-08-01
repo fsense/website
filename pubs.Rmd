@@ -111,13 +111,15 @@ Developing a University-Wide Primary Prevention Intervention for Prescription St
 
 ### Peer-reviewed conference contributions
 
-**Sense, F.**, Collins, M., Kim, J.W., Krusmark, M., & Jastrzembski, T. (2022). The Predictive Performance Equation in a Generalized Knowledge Tracing Machine. *Proceedings of the 20th International Conference on Cognitive Modeling*. Toronto, Canada. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2022_ICCM.pdf)  
+**Sense, F.**, Collins, M.G., Kim, J.W., Krusmark, M.A., & Jastrzembski, T. (2022). The Predictive Performance Equation in a Generalized Knowledge Tracing Machine. *Proceedings of the 20th International Conference on Cognitive Modeling*. Toronto, Canada. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2022_ICCM.pdf)  
 
-**Sense, F.**, Sanderson, L., Onia, J., Krusmark, M.A., Fiechter, J., Collins, M.G., Jastrzembski, T. (2022). Fuzzy Performance Profiles: Towards Personalized CPR Refresher Training. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. Toronto, Canada. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2022_CogSci.pdf)  
+**Sense, F.**, Sanderson, L., Onia, J., Krusmark, M.A., Fiechter, J., Collins, M.G., & Jastrzembski, T. (2022). Fuzzy Performance Profiles: Towards Personalized CPR Refresher Training. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. Toronto, Canada. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2022_CogSci.pdf)  
 
-**Sense, F.**, Krusmark, M.A., Fiechter, J., Collins, M.G., Sanderson, L., Onia, J., Jastrzembski, T. (2021). Combining Cognitive and Machine Learning Models to Mine CPR Training Histories for Personalized Predictions. *[Proceedings](https://educationaldatamining.org/edm2021/proceedings/#full) of Educational Data Mining 2021*. Virtual Conference. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2021_EDM.pdf)  
+Collins, M.G., **Sense, F.**, Krusmark, M.A., & Jastrzembski, T. (2022). Extending the Predictive Performance Equation to Account for Multivariate Performance. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. Toronto, Canada. <i class="far fa-file-pdf"></i> [pdf](files/Collins_etal_2022_CogSci.pdf)  
 
-Fiechter, J., **Sense, F.**, Collins, M.G., Krusmark, M.A., Jastrzembski, T. (2021). Additional acquisition sessions monotonically benefit retention and relearning. *Proceedings of the 43rd Annual Meeting of the Cognitive Science Society*. Virutal Conference. <i class="far fa-file-pdf"></i> [pdf](files/Fiechter_etal_2021_cogsci.pdf)  
+**Sense, F.**, Krusmark, M.A., Fiechter, J., Collins, M.G., Sanderson, L., Onia, J., & Jastrzembski, T. (2021). Combining Cognitive and Machine Learning Models to Mine CPR Training Histories for Personalized Predictions. *[Proceedings](https://educationaldatamining.org/edm2021/proceedings/#full) of Educational Data Mining 2021*. Virtual Conference. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2021_EDM.pdf)  
+
+Fiechter, J., **Sense, F.**, Collins, M.G., Krusmark, M.A., & Jastrzembski, T. (2021). Additional acquisition sessions monotonically benefit retention and relearning. *Proceedings of the 43rd Annual Meeting of the Cognitive Science Society*. Virutal Conference. <i class="far fa-file-pdf"></i> [pdf](files/Fiechter_etal_2021_cogsci.pdf)  
 
 Wilschut, T., van der Velde, M., **Sense, F.**, Fountas, Z., & van Rijn, H. (2021). Translating a Typing-Based Adaptive Learning Model to Speech-Based L2 Vocabulary Learning. *Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization*. Virtual Conference. <i class="fas fa-home"></i> [10.1145/3450613.3456825](https://doi.org/10.1145/3450613.3456825). 
 
