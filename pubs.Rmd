@@ -2,9 +2,15 @@
 title: "Publications"
 ---
 
+[My Google Scholar profile](https://scholar.google.com/citations?user=e38VtRgAAAAJ&hl=en&oi=ao).
+
 Shared first authorships are indicated with a ^.
 
 ### Preprints
+
+van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H.  
+Large-scale evaluation of cold start mitigation in adaptive fact learning: Knowing" what" matters more than knowing" who".  
+<i class="far fa-file-pdf"></i> [PsyArXiv preprint](https://psyarxiv.com/z3vtn/)   
 
 van der Velde, M., **Sense, F.**, Borst, J. P., & van Rijn, H.  
 Explaining Forgetting at Different Timescales Requires a Time-variant Forgetting Function.    
@@ -25,6 +31,11 @@ Distributed Patterns of Functional Connectivity Underlie Individual Differences 
 -----
 
 ### Published
+
+Wilschut, T., van der Velde, M., **Sense, F.**, & van Rijn, H. (2023).  
+Prior Knowledge Norms for Naming Country Outlines: An Open Stimulus Set.  
+*Journal of Cognition*, 6(1).  
+<i class="fas fa-home"></i> [10.5334/joc.260](https://journalofcognition.org/articles/10.5334/joc.260) (open access)   
 
 Sasin, E., **Sense, F.**, Nieuwenstein, M., & Fougnie, D. (2022).  
 Training Modulates Memory-driven Capture.  
@@ -110,6 +121,8 @@ Developing a University-Wide Primary Prevention Intervention for Prescription St
 -----
 
 ### Peer-reviewed conference contributions
+
+Wilschut, T., **Sense, F.**, Scharenborg, O., & van Rijn, H. (2023). Improving Adaptive Learning Models Using Prosodic Speech Features. *International Conference on Artificial Intelligence in Education*. Tokyo, Japan. <i class="fas fa-home"></i> [website](https://link.springer.com/chapter/10.1007/978-3-031-36272-9_21). 
 
 **Sense, F.**, Collins, M.G., Kim, J.W., Krusmark, M.A., & Jastrzembski, T. (2022). The Predictive Performance Equation in a Generalized Knowledge Tracing Machine. *Proceedings of the 20th International Conference on Cognitive Modeling*. Toronto, Canada. <i class="far fa-file-pdf"></i> [pdf](files/Sense_etal_2022_ICCM.pdf)  
 
