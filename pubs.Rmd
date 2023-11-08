@@ -32,6 +32,11 @@ Distributed Patterns of Functional Connectivity Underlie Individual Differences 
 
 ### Published
 
+Wilschut, T., **Sense, F.**, & van Rijn, H. (2024).  
+Speaking to remember: Model-based Adaptive Vocabulary Learning Using Automatic Speech Recognition.  
+*Computer Speech & Language*, 84, 101578.  
+<i class="fas fa-home"></i> [10.1016/j.csl.2023.101578](https://doi.org/10.1016/j.csl.2023.101578) (open access)   
+
 Wilschut, T., van der Velde, M., **Sense, F.**, & van Rijn, H. (2023).  
 Prior Knowledge Norms for Naming Country Outlines: An Open Stimulus Set.  
 *Journal of Cognition*, 6(1).  
